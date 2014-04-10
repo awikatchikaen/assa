@@ -6,7 +6,7 @@ Created on 26 sept. 2013
 import abc
 import urllib
 
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 
 from utils.parsers.AbstractParser import AbstractParser
 
